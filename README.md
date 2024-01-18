@@ -8,10 +8,9 @@ https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognit
 # Analysis Table:
 ![Screenshot 2024-01-13 133956](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/6c5bc005-8719-4d1f-a020-0126ece28ff1)
 # Screenshot of Web Page:
-![1](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/49b58bb9-31ce-4067-a2aa-5a073a8ece09)
+![2](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/c6e5c02d-5746-4221-b93d-e4b44d25744c)
 # Result of Web Page:
-![2](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/43fb9a88-ea0b-4531-8ee5-45d913097828)
-# How to Run the Code:
+![1](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/22798b01-1ae2-4026-9b2e-8a83c15292a5)
 1. Open the code in any IDE
 2. Run the code
 3. Then go to any browser and paste "http://localhost:5000"
