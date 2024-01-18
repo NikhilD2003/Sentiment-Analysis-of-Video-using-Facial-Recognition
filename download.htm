@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emotion Detection</title>
+</head>
+<body>
+  <form id="emotionForm" action="/process_video" method="post" enctype="multipart/form-data">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required><br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br>
+
+    <label for="video">Video:</label>
+    <input type="file" id="video" name="video" accept="video/*" required><br>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="results">
+    <h2>Emotion Detection Results</h2>
+    <p>Happy Frames: <span id="happy"></span></p>
+    <p>Sad Frames: <span id="sad"></span></p>
+    <p>Neutral Frames: <span id="neutral"></span></p>
+    <p>Angry Frames: <span id="angry"></span></p>
+  </div>
+</body>
+</html>
