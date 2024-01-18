@@ -7,9 +7,5 @@ Sentiment analysis of a video using facial recognition involves analyzing the fa
 https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/c26093f8-5d77-4ef1-bbe7-eb08c946623a
 # Analysis Table
 ![Screenshot 2024-01-13 133956](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/6c5bc005-8719-4d1f-a020-0126ece28ff1)
-# Web Page for more video input
-
-# Analysis Table of Web Page
-
 # Conclusion
 It's important to note that sentiment analysis through facial recognition has its challenges, including variations in lighting conditions, facial expressions, and cultural differences. Continuous refinement and testing of the model are essential to improve accuracy and generalization across different scenarios. Additionally, respecting privacy and ethical considerations is crucial when deploying such systems in real-world applications.
