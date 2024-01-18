@@ -11,6 +11,12 @@ https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognit
 ![1](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/49b58bb9-31ce-4067-a2aa-5a073a8ece09)
 # Result of Web Page:
 ![2](https://github.com/NikhilD2003/Sentiment-Analysis-of-Video-using-Facial-Recognition/assets/150776453/43fb9a88-ea0b-4531-8ee5-45d913097828)
+# How to Run the Code:
+1. Open the code in any IDE
+2. Run the code
+3. Then go to any browser and paste "http://localhost:5000"
+4. Put the details and select the video
+5. Click on Submit
 # Analysis Results:
 The sentiment analysis component effectively translated facial expressions into emotional categories. The model achieved accuracy in sentiment classification, showcasing its ability to discern and classify diverse emotions accurately.
 # Challenges and Limitations:
